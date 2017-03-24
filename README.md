@@ -1,6 +1,6 @@
 
 # simple-sequence-generator
-This is a very sequence generator in which you enter the formula for a sequence and the amount of numbers to be generated.
+This is a sequence generator in which you enter the formula for a sequence and the amount of numbers to be generated.
 ## Installation
 No install is required.
 ## Usage
